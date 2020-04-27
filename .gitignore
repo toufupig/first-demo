@@ -1,2 +1,7 @@
 # Project exclude paths
 /out/
+/.idea/.gitignore
+/first-demo.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
